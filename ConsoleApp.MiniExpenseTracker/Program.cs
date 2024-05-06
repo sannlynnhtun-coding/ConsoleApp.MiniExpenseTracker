@@ -1,4 +1,6 @@
-﻿ExpenseTrackerService tracker = new ExpenseTrackerService();
+﻿using ConsoleApp.MiniExpenseTracker;
+
+ExpenseTrackerService tracker = new ExpenseTrackerService();
 
 bool running = true;
 while (running)

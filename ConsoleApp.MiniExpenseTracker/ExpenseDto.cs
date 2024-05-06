@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace ConsoleApp.MiniExpenseTracker;
+
 public class ExpenseDto
 {
     public string Description { get; set; }

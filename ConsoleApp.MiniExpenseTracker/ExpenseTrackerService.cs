@@ -1,4 +1,6 @@
-﻿public class ExpenseTrackerService
+﻿namespace ConsoleApp.MiniExpenseTracker;
+
+public class ExpenseTrackerService
 {
     private List<ExpenseDto> expenses;
 
